@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|p:\\facultate\\an2\\cg\\unity-tutorials\\prototype 1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|p:\\facultate\\an2\\cg\\unity-tutorials\\prototype 1\\assets\\scripts\\splitscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\splitscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|p:\\facultate\\an2\\cg\\unity-tutorials\\prototype 1\\assets\\scripts\\followplayer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\assets\\scripts\\playercontrollerp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollerp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|p:\\facultate\\an2\\cg\\unity-tutorials\\prototype 1\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\assets\\scripts\\movevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\assets\\challenge 1\\scripts\\spinpropellerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\spinpropellerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +46,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SplitScreen.cs",
+              "DocumentMoniker": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\SplitScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SplitScreen.cs",
+              "ToolTip": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\SplitScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SplitScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:24:56.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FollowPlayer2.cs",
+              "DocumentMoniker": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\FollowPlayer2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer2.cs",
+              "ToolTip": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\FollowPlayer2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:21:01.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControllerP2.cs",
+              "DocumentMoniker": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\PlayerControllerP2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllerP2.cs",
+              "ToolTip": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\PlayerControllerP2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControllerP2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:14:56.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveVehicles.cs",
+              "DocumentMoniker": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\MoveVehicles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveVehicles.cs",
+              "ToolTip": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\MoveVehicles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveVehicles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:59:32.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpinPropellerX.cs",
+              "DocumentMoniker": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Challenge 1\\Scripts\\SpinPropellerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\SpinPropellerX.cs",
+              "ToolTip": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Challenge 1\\Scripts\\SpinPropellerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\SpinPropellerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:37:48.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FollowPlayerX.cs",
+              "DocumentMoniker": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ToolTip": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:26:58.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:26:54.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
               "ToolTip": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\FollowPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T15:26:55.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "P:\\Facultate\\An2\\CG\\Unity-Tutorials\\Prototype 1\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:33:51.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T14:33:51.312Z"
             }
           ]
         }

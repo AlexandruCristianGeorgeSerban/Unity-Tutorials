@@ -2,19 +2,40 @@ using UnityEngine;
 
 public class FollowPlayer : MonoBehaviour
 {
-    private Vector3 offset = new Vector3(0, 5, -7);
+    // Define two camera offsets.
+    private Vector3 offsetDefault = new Vector3(0, 5, -7);
+    private Vector3 offsetAlternate = new Vector3(0, 2, 1);
 
     public GameObject player;
+
+    // This will hold the current active offset.
+    private Vector3 currentOffset;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        // Initialize with the default offset.
+        currentOffset = offsetDefault;
     }
 
     // Update is called once per frame
     void LateUpdate()
     {
-        // Offset the camera behind the player by adding to the player's position
-        transform.position = player.transform.position + offset;
+        // When the jump button is pressed, toggle the offset.
+        if (Input.GetButtonDown("P1Camera"))
+        {
+            // Toggle between the two offsets.
+            if (currentOffset == offsetDefault)
+            {
+                currentOffset = offsetAlternate;
+            }
+            else
+            {
+                currentOffset = offsetDefault;
+            }
+        }
+
+        // Update the camera's position relative to the player's position.
+        transform.position = player.transform.position + currentOffset;
     }
 }
