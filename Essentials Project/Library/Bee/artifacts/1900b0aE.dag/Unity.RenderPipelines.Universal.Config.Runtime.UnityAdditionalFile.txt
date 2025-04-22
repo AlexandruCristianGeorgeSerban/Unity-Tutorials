@@ -1,1 +1,3 @@
-P:\Facultate\An2\CG\Unity-Tutorials\Essentials Project
+version https://git-lfs.github.com/spec/v1
+oid sha256:9baa6b1f1483042c9109cdbd919241e396aca4880752d01f99d8bc9b807d45fe
+size 54
